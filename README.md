@@ -1,6 +1,6 @@
 # QuantumFlow Databricks ETL Pipeline
 
-**Welcome to QuantumFlow! Osama's Azure Databricks ETL Solution.**
+**Welcome to QuantumFlow! Shabab's Azure Databricks ETL Solution.**
 
 ## Features
 
